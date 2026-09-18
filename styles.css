@@ -1,0 +1,13 @@
+body {
+        position: relative;
+        background-image: url('/images/mathBG.png');
+        background-size: cover; 
+        background-position: center; 
+        background-repeat: no-repeat; 
+        background-attachment: fixed; 
+        color: white; 
+        font-family: Lucida Console;
+        font-size: large;
+        padding: 20px;
+        text-align: center;
+}
